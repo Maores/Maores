@@ -5,7 +5,7 @@
 - 🌱 Always learning and experimenting with new technologies
 - 🎯 Focused on writing clean and simple code that works well
 
----
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maor-saban/)  
@@ -13,9 +13,11 @@
 
 
 
----
+
+
 
 ## 🛠️ Technologies & Tools
+--
 **Python · Java · C · Git · Linux · Bash · OOP**
 
 ---
