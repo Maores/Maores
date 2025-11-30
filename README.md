@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Maor
 
-<!--
-**Maores/Maores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd-year B.Sc. Software Engineering Student at Braude Academic College  
+Focused on writing clean, reliable code and building practical tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Enjoy working with **Python, Java, and C**
+- ⚙️ Interested in **Automation, Backend, and System Tools**
+- 🧠 Strong foundation in **OOP**, **Data Structures**, and **Software Engineering principles**
+- 🔧 Constantly improving through hands-on projects and experimentation
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](YOUR-LINKEDIN-LINK)  
+📧 Email: **YOUR-EMAIL-HERE**
+
+---
+
+## 🛠️ Technologies & Tools
+**Python · Java · C · Git · Linux · Bash · OOP**
+
+---
+
+## 📌 Projects
+
+### 🔹 System Resource Monitor  
+A real-time CPU, RAM, and Disk usage monitor with:
+- Textual TUI dashboard  
+- Rich-based CLI interface  
+
+🔗 Repo: https://github.com/Maores/SystemResourceMonitor
+
+---
+
+> “Small consistent progress beats big irregular efforts.”
+
