@@ -1,5 +1,4 @@
-<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/e4ac6eb4-cd9b-47ca-9d68-19130282e464" /># 👋 Hey there!
-
+# 👋 Hey there!
 ### I'm Maor, a 3rd-year Software Engineering student who loves building practical tools and improving my skills through real projects.
 
 - 💻 Comfortable with Python, Java, and C
