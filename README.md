@@ -1,15 +1,10 @@
-# 👋 Hi, I’m Maor
+# 👋 Hey there!
 
-### 3rd-year B.Sc. Software Engineering Student at Braude Academic College  
-Focused on writing clean, reliable code and building practical tools.
+### I'm Maor, a 3rd-year Software Engineering student who loves building practical tools and improving my skills through real projects.
 
----
-
-## 🚀 About Me
-- 💻 Enjoy working with **Python, Java, and C**
-- ⚙️ Interested in **Automation, Backend, and System Tools**
-- 🧠 Strong foundation in **OOP**, **Data Structures**, and **Software Engineering principles**
-- 🔧 Constantly improving through hands-on projects and experimentation
+- 💻 Comfortable with Python, Java, and C
+- 🌱 Always learning and experimenting with new technologies
+- 🎯 Focused on writing clean and simple code that works well
 
 ---
 
