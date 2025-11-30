@@ -1,4 +1,4 @@
-# 👋 Hey there!
+<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/e4ac6eb4-cd9b-47ca-9d68-19130282e464" /># 👋 Hey there!
 
 ### I'm Maor, a 3rd-year Software Engineering student who loves building practical tools and improving my skills through real projects.
 
@@ -9,8 +9,9 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/maor-saban/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maor-saban/)  
 📧 Email: maorx40@gmail.com
+
 
 
 ---
