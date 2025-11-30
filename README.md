@@ -14,8 +14,8 @@ Focused on writing clean, reliable code and building practical tools.
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](YOUR-LINKEDIN-LINK)  
-📧 Email: **YOUR-EMAIL-HERE**
+[LinkedIn]https://www.linkedin.com/in/maor-saban/
+📧 Email: maorx40@gmail.com
 
 ---
 
@@ -35,5 +35,5 @@ A real-time CPU, RAM, and Disk usage monitor with:
 
 ---
 
-> “Small consistent progress beats big irregular efforts.”
+> “Who is wise? One who learns from every man.”
 
