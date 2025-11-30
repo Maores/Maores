@@ -9,8 +9,9 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn]https://www.linkedin.com/in/maor-saban/
+[LinkedIn](https://www.linkedin.com/in/maor-saban/)  
 📧 Email: maorx40@gmail.com
+
 
 ---
 
