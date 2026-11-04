@@ -3,11 +3,11 @@
   <img src="assets/banner.png" alt="Maor Saban. Software Engineering student at Braude Academic College, graduating in 2027. How I build with AI coding agents: written spec, plan review, tests, release. Open to junior roles." width="100%">
 </picture>
 
-I've built an AI assistant that lives in Telegram, a task-management system for an insurance agency, a browser game and an algorithm visualizer.
+My main projects are DeskFlow, a task-management system I built for an insurance agency, and a personal AI assistant that runs on Telegram. I've also made a browser game and an algorithm visualizer.
 
-I work with AI coding agents and check what they produce with written specs, independent reviews and automated tests.
+I build with AI coding agents and check their work with a written spec, a review of every plan and automated tests.
 
-**Looking for:** a junior software engineering role where I can contribute to real projects. [Reach me on LinkedIn](https://www.linkedin.com/in/maor-saban/).
+I'm looking for a junior software engineering role. You can reach me on [LinkedIn](https://www.linkedin.com/in/maor-saban/).
 
 ## Telegram Agent: a personal AI assistant
 
